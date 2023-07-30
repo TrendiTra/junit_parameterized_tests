@@ -9,6 +9,7 @@ import static com.codeborne.selenide.Selenide.$$;
 
 public class WildberriesResultsPage {
 
+    //comment2
     private ElementsCollection results = $$("#searching-results__title");
 
     public void checkResults(String expected) {
