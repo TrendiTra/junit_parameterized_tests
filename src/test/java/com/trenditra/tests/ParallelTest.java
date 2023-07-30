@@ -17,6 +17,7 @@ import static com.trenditra.pageparametres.WildberriesMainPage.URL;
 @Tag("Wildberries")
 public class ParallelTest {
 
+    //comment1
     private WildberriesMainPage wb = new WildberriesMainPage();
     private static String clothe = "Носок";
 

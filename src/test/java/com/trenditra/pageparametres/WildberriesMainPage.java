@@ -6,6 +6,8 @@ import static com.codeborne.selenide.Selenide.$;
 
 public class WildberriesMainPage {
 
+    //comment3
+
     public static final String URL = "https://www.wildberries.ru";
 
     private SelenideElement searchInput = $("#searchInput");

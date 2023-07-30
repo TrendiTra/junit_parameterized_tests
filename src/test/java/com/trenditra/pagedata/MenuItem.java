@@ -2,6 +2,8 @@ package com.trenditra.pagedata;
 
 public enum MenuItem {
 
+    //comment4
+
     LOCATION("Адреса"),
     LOGIN("Войти"),
     BASKET("Корзина");
